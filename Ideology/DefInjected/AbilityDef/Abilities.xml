@@ -4,7 +4,7 @@
   <!-- EN: Animal calm -->
   <AnimalCalm.label>успокоение животного</AnimalCalm.label>
   <!-- EN: Use unique methods of connecting with animals to calm a maddened beast. -->
-  <AnimalCalm.description>Успокоить разъярённое создание с помощью уникальной способности понимать животных.</AnimalCalm.description>
+  <AnimalCalm.description>Успокоить разъярённое создание с помощью уникальной способности "понимать животных".</AnimalCalm.description>
   <!-- EN: {INITIATOR_labelShort} successfully calmed {RECIPIENT_labelShort}. -->
   <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort} успешно {INITIATOR_gender ? успокоил : успокоила} {RECIPIENT_labelShort}.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
   
